@@ -1,0 +1,5 @@
+{
+    "name": "Get Pixel Value",
+    "description": "Show pixel value",
+    "enable-startup": false
+}
