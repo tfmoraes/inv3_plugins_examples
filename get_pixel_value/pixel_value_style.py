@@ -8,7 +8,7 @@ from invesalius.data import styles
 
 from . import gui
 
-class PixelValueStyle(styles.BaseImageInteractorStyle):
+class PixelValueStyle(styles.DefaultInteractorStyle):
     gui = None
     def __init__(self, viewer):
         super().__init__(viewer)
